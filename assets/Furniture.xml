@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource_file type="TileSet" subresource_count="64" version="2.1" version_name="Godot Engine v2.1.stable.official">
+	<ext_resource path="res://assets/Furniture/singleBed1.png" type="Texture" index="0"></ext_resource>
+	<ext_resource path="res://assets/Furniture/barrel6.png" type="Texture" index="8"></ext_resource>
+	<ext_resource path="res://assets/Furniture/barrel3.png" type="Texture" index="5"></ext_resource>
+	<ext_resource path="res://assets/Furniture/cabinets5.png" type="Texture" index="16"></ext_resource>
+	<ext_resource path="res://assets/Furniture/cabinets9.png" type="Texture" index="20"></ext_resource>
+	<ext_resource path="res://assets/Furniture/barrel4.png" type="Texture" index="6"></ext_resource>
+	<ext_resource path="res://assets/Furniture/barrel8.png" type="Texture" index="10"></ext_resource>
+	<ext_resource path="res://assets/Furniture/barrel5.png" type="Texture" index="7"></ext_resource>
+	<ext_resource path="res://assets/Furniture/chair1.png" type="Texture" index="27"></ext_resource>
+	<ext_resource path="res://assets/Furniture/kitchenCounter4.png" type="Texture" index="30"></ext_resource>
+	<ext_resource path="res://assets/Furniture/blood1.png" type="Texture" index="28"></ext_resource>
+	<ext_resource path="res://assets/Furniture/table2.png" type="Texture" index="26"></ext_resource>
+	<ext_resource path="res://assets/Furniture/crates1.png" type="Texture" index="29"></ext_resource>
+	<ext_resource path="res://assets/Furniture/dresser2.png" type="Texture" index="25"></ext_resource>
+	<ext_resource path="res://assets/Furniture/doubleBed1.png" type="Texture" index="12"></ext_resource>
+	<ext_resource path="res://assets/Furniture/table1.png" type="Texture" index="23"></ext_resource>
+	<ext_resource path="res://assets/Furniture/kitchenCounter3.png" type="Texture" index="31"></ext_resource>
+	<ext_resource path="res://assets/Furniture/barrel7.png" type="Texture" index="9"></ext_resource>
+	<ext_resource path="res://assets/Furniture/barrel1.png" type="Texture" index="3"></ext_resource>
+	<ext_resource path="res://assets/Furniture/singleBed2.png" type="Texture" index="1"></ext_resource>
+	<ext_resource path="res://assets/Furniture/dresser1.png" type="Texture" index="24"></ext_resource>
+	<ext_resource path="res://assets/Furniture/cabinets2.png" type="Texture" index="13"></ext_resource>
+	<ext_resource path="res://assets/Furniture/cabinets6.png" type="Texture" index="17"></ext_resource>
+	<ext_resource path="res://assets/Furniture/cabinets4.png" type="Texture" index="15"></ext_resource>
+	<ext_resource path="res://assets/Furniture/cabinets3.png" type="Texture" index="14"></ext_resource>
+	<ext_resource path="res://assets/Furniture/nightstand1.png" type="Texture" index="21"></ext_resource>
+	<ext_resource path="res://assets/Furniture/cabinets8.png" type="Texture" index="19"></ext_resource>
+	<ext_resource path="res://assets/Furniture/nightstand2.png" type="Texture" index="22"></ext_resource>
+	<ext_resource path="res://assets/Furniture/cabinets1.png" type="Texture" index="11"></ext_resource>
+	<ext_resource path="res://assets/Furniture/cabinets7.png" type="Texture" index="18"></ext_resource>
+	<ext_resource path="res://assets/Furniture/kitchenCounter2.png" type="Texture" index="2"></ext_resource>
+	<ext_resource path="res://assets/Furniture/barrel2.png" type="Texture" index="4"></ext_resource>
+	<resource type="RectangleShape2D" path="local://35">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 23, 38 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://36">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 23, 38 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://42">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 48, 11 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://43">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 14 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://44">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 14 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://45">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 14 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://46">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 14 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://47">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 47, 14 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://48">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 32, 14 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://49">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 14 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://50">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 32, 24 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://51">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 16, 30 </vector2>
+
+	</resource>
+	<resource type="ConvexPolygonShape2D" path="local://3">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2_array name="points" len="4"> 			29.905, -26.7445, 28.905, 30.8952, -27.595, 30.8952, -27.845, -25.9495 </vector2_array>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://52">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 30 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://53">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 32, 30.5 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://54">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 31.5, 32 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://55">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 30 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://56">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 30 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://57">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 30 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://58">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 16, 30 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://59">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 32.5, 30 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://60">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 16, 19.5 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://61">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 16.5, 24 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://37">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 11, 40 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://62">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 30.5 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://63">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 15.5, 30 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://38">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 44, 32 </vector2>
+
+	</resource>
+	<resource type="ConvexPolygonShape2D" path="local://6">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2_array name="points" len="6"> 			9.26849, -19.8786, 11.7485, -19.8786, 13.8742, -13.855, 12.4571, 10.5565, 11.3942, 21.3356, 7.14276, 21.3356 </vector2_array>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://39">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 49, 26 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://40">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 64, 14 </vector2>
+
+	</resource>
+	<resource type="RectangleShape2D" path="local://41">
+		<real name="custom_solver_bias"> 0 </real>
+		<vector2 name="extents"> 47.5, 20.5 </vector2>
+
+	</resource>
+	<main_resource>
+		<string name="0/name"> "singleBed1" </string>
+		<resource name="0/texture" external="0">  </resource>
+		<vector2 name="0/tex_offset"> 0, 0 </vector2>
+		<resource name="0/material"></resource>		<rect2 name="0/region"> 0, 0, 57, 86 </rect2>
+		<vector2 name="0/occluder_offset"> 28.5, 43 </vector2>
+		<resource name="0/occluder"></resource>		<vector2 name="0/navigation_offset"> 28.5, 43 </vector2>
+		<resource name="0/navigation"></resource>		<vector2 name="0/shape_offset"> 28.5, 43 </vector2>
+		<array name="0/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://35">  </resource>
+		</array>
+		<string name="1/name"> "singleBed2" </string>
+		<resource name="1/texture" external="1">  </resource>
+		<vector2 name="1/tex_offset"> 0, 0 </vector2>
+		<resource name="1/material"></resource>		<rect2 name="1/region"> 0, 0, 57, 84 </rect2>
+		<vector2 name="1/occluder_offset"> 28.5, 42 </vector2>
+		<resource name="1/occluder"></resource>		<vector2 name="1/navigation_offset"> 28.5, 42 </vector2>
+		<resource name="1/navigation"></resource>		<vector2 name="1/shape_offset"> 28.5, 42 </vector2>
+		<array name="1/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://36">  </resource>
+		</array>
+		<string name="2/name"> "doubleBed1" </string>
+		<resource name="2/texture" external="12">  </resource>
+		<vector2 name="2/tex_offset"> 0, 0 </vector2>
+		<resource name="2/material"></resource>		<rect2 name="2/region"> 0, 0, 68, 88 </rect2>
+		<vector2 name="2/occluder_offset"> 34, 44 </vector2>
+		<resource name="2/occluder"></resource>		<vector2 name="2/navigation_offset"> 34, 44 </vector2>
+		<resource name="2/navigation"></resource>		<vector2 name="2/shape_offset"> 34, 44 </vector2>
+		<array name="2/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://3">  </resource>
+		</array>
+		<string name="3/name"> "table1" </string>
+		<resource name="3/texture" external="23">  </resource>
+		<vector2 name="3/tex_offset"> 0, 0 </vector2>
+		<resource name="3/material"></resource>		<rect2 name="3/region"> 0, 0, 27, 84 </rect2>
+		<vector2 name="3/occluder_offset"> 13.5, 42 </vector2>
+		<resource name="3/occluder"></resource>		<vector2 name="3/navigation_offset"> 13.5, 42 </vector2>
+		<resource name="3/navigation"></resource>		<vector2 name="3/shape_offset"> 11, 40 </vector2>
+		<array name="3/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://37">  </resource>
+		</array>
+		<string name="4/name"> "table2" </string>
+		<resource name="4/texture" external="26">  </resource>
+		<vector2 name="4/tex_offset"> 0, 0 </vector2>
+		<resource name="4/material"></resource>		<rect2 name="4/region"> 0, 0, 98, 82 </rect2>
+		<vector2 name="4/occluder_offset"> 44, 32 </vector2>
+		<resource name="4/occluder"></resource>		<vector2 name="4/navigation_offset"> 49, 41 </vector2>
+		<resource name="4/navigation"></resource>		<vector2 name="4/shape_offset"> 49, 41 </vector2>
+		<array name="4/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://38">  </resource>
+		</array>
+		<string name="5/name"> "chair1" </string>
+		<resource name="5/texture" external="27">  </resource>
+		<vector2 name="5/tex_offset"> 0, 0 </vector2>
+		<resource name="5/material"></resource>		<rect2 name="5/region"> 0, 0, 31, 49 </rect2>
+		<vector2 name="5/occluder_offset"> 15.5, 24.5 </vector2>
+		<resource name="5/occluder"></resource>		<vector2 name="5/navigation_offset"> 15.5, 24.5 </vector2>
+		<resource name="5/navigation"></resource>		<vector2 name="5/shape_offset"> 15.5, 24.5 </vector2>
+		<array name="5/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://6">  </resource>
+		</array>
+		<string name="6/name"> "blood" </string>
+		<resource name="6/texture" external="28">  </resource>
+		<vector2 name="6/tex_offset"> 0, 0 </vector2>
+		<resource name="6/material"></resource>		<rect2 name="6/region"> 0, 0, 59, 26 </rect2>
+		<vector2 name="6/occluder_offset"> 29.5, 13 </vector2>
+		<resource name="6/occluder"></resource>		<vector2 name="6/navigation_offset"> 29.5, 13 </vector2>
+		<resource name="6/navigation"></resource>		<vector2 name="6/shape_offset"> 0, 0 </vector2>
+		<array name="6/shapes" len="0" shared="false">
+		</array>
+		<string name="7/name"> "crate" </string>
+		<resource name="7/texture" external="29">  </resource>
+		<vector2 name="7/tex_offset"> 0, 0 </vector2>
+		<resource name="7/material"></resource>		<rect2 name="7/region"> 0, 0, 98, 58 </rect2>
+		<vector2 name="7/occluder_offset"> 49, 29 </vector2>
+		<resource name="7/occluder"></resource>		<vector2 name="7/navigation_offset"> 49, 29 </vector2>
+		<resource name="7/navigation"></resource>		<vector2 name="7/shape_offset"> 49, 26 </vector2>
+		<array name="7/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://39">  </resource>
+		</array>
+		<string name="8/name"> "kitchenCounter4" </string>
+		<resource name="8/texture" external="30">  </resource>
+		<vector2 name="8/tex_offset"> 0, 0 </vector2>
+		<resource name="8/material"></resource>		<rect2 name="8/region"> 0, 0, 128, 32 </rect2>
+		<vector2 name="8/occluder_offset"> 64, 16 </vector2>
+		<resource name="8/occluder"></resource>		<vector2 name="8/navigation_offset"> 64, 16 </vector2>
+		<resource name="8/navigation"></resource>		<vector2 name="8/shape_offset"> 64, 14 </vector2>
+		<array name="8/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://40">  </resource>
+		</array>
+		<string name="9/name"> "kitchenCounter1" </string>
+		<resource name="9/texture" external="31">  </resource>
+		<vector2 name="9/tex_offset"> 0, 0 </vector2>
+		<resource name="9/material"></resource>		<rect2 name="9/region"> 0, 0, 95, 41 </rect2>
+		<vector2 name="9/occluder_offset"> 47.5, 20.5 </vector2>
+		<resource name="9/occluder"></resource>		<vector2 name="9/navigation_offset"> 47.5, 20.5 </vector2>
+		<resource name="9/navigation"></resource>		<vector2 name="9/shape_offset"> 47.5, 20.5 </vector2>
+		<array name="9/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://41">  </resource>
+		</array>
+		<string name="10/name"> "kitchenCounter2" </string>
+		<resource name="10/texture" external="2">  </resource>
+		<vector2 name="10/tex_offset"> 0, 0 </vector2>
+		<resource name="10/material"></resource>		<rect2 name="10/region"> 0, 0, 96, 22 </rect2>
+		<vector2 name="10/occluder_offset"> 48, 11 </vector2>
+		<resource name="10/occluder"></resource>		<vector2 name="10/navigation_offset"> 48, 11 </vector2>
+		<resource name="10/navigation"></resource>		<vector2 name="10/shape_offset"> 48, 11 </vector2>
+		<array name="10/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://42">  </resource>
+		</array>
+		<string name="11/name"> "barrel1" </string>
+		<resource name="11/texture" external="3">  </resource>
+		<vector2 name="11/tex_offset"> 0, 0 </vector2>
+		<resource name="11/material"></resource>		<rect2 name="11/region"> 0, 0, 31, 32 </rect2>
+		<vector2 name="11/occluder_offset"> 15.5, 16 </vector2>
+		<resource name="11/occluder"></resource>		<vector2 name="11/navigation_offset"> 15.5, 16 </vector2>
+		<resource name="11/navigation"></resource>		<vector2 name="11/shape_offset"> 15.5, 14 </vector2>
+		<array name="11/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://43">  </resource>
+		</array>
+		<string name="12/name"> "barrel2" </string>
+		<resource name="12/texture" external="4">  </resource>
+		<vector2 name="12/tex_offset"> 0, 0 </vector2>
+		<resource name="12/material"></resource>		<rect2 name="12/region"> 0, 0, 31, 32 </rect2>
+		<vector2 name="12/occluder_offset"> 15.5, 16 </vector2>
+		<resource name="12/occluder"></resource>		<vector2 name="12/navigation_offset"> 15.5, 16 </vector2>
+		<resource name="12/navigation"></resource>		<vector2 name="12/shape_offset"> 15.5, 14 </vector2>
+		<array name="12/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://44">  </resource>
+		</array>
+		<string name="13/name"> "barrel3" </string>
+		<resource name="13/texture" external="5">  </resource>
+		<vector2 name="13/tex_offset"> 0, 0 </vector2>
+		<resource name="13/material"></resource>		<rect2 name="13/region"> 0, 0, 32, 32 </rect2>
+		<vector2 name="13/occluder_offset"> 16, 16 </vector2>
+		<resource name="13/occluder"></resource>		<vector2 name="13/navigation_offset"> 16, 16 </vector2>
+		<resource name="13/navigation"></resource>		<vector2 name="13/shape_offset"> 15.5, 14 </vector2>
+		<array name="13/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://45">  </resource>
+		</array>
+		<string name="14/name"> "barrel4" </string>
+		<resource name="14/texture" external="6">  </resource>
+		<vector2 name="14/tex_offset"> 0, 0 </vector2>
+		<resource name="14/material"></resource>		<rect2 name="14/region"> 0, 0, 31, 31 </rect2>
+		<vector2 name="14/occluder_offset"> 15.5, 15.5 </vector2>
+		<resource name="14/occluder"></resource>		<vector2 name="14/navigation_offset"> 15.5, 15.5 </vector2>
+		<resource name="14/navigation"></resource>		<vector2 name="14/shape_offset"> 15.5, 14 </vector2>
+		<array name="14/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://46">  </resource>
+		</array>
+		<string name="15/name"> "barrel5" </string>
+		<resource name="15/texture" external="7">  </resource>
+		<vector2 name="15/tex_offset"> 0, 0 </vector2>
+		<resource name="15/material"></resource>		<rect2 name="15/region"> 0, 0, 94, 33 </rect2>
+		<vector2 name="15/occluder_offset"> 47, 16.5 </vector2>
+		<resource name="15/occluder"></resource>		<vector2 name="15/navigation_offset"> 47, 16.5 </vector2>
+		<resource name="15/navigation"></resource>		<vector2 name="15/shape_offset"> 47, 14 </vector2>
+		<array name="15/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://47">  </resource>
+		</array>
+		<string name="16/name"> "barrel6" </string>
+		<resource name="16/texture" external="8">  </resource>
+		<vector2 name="16/tex_offset"> 0, 0 </vector2>
+		<resource name="16/material"></resource>		<rect2 name="16/region"> 0, 0, 64, 32 </rect2>
+		<vector2 name="16/occluder_offset"> 32, 16 </vector2>
+		<resource name="16/occluder"></resource>		<vector2 name="16/navigation_offset"> 32, 16 </vector2>
+		<resource name="16/navigation"></resource>		<vector2 name="16/shape_offset"> 32, 14 </vector2>
+		<array name="16/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://48">  </resource>
+		</array>
+		<string name="17/name"> "barrel7" </string>
+		<resource name="17/texture" external="9">  </resource>
+		<vector2 name="17/tex_offset"> 0, 0 </vector2>
+		<resource name="17/material"></resource>		<rect2 name="17/region"> 0, 0, 31, 32 </rect2>
+		<vector2 name="17/occluder_offset"> 15.5, 16 </vector2>
+		<resource name="17/occluder"></resource>		<vector2 name="17/navigation_offset"> 15.5, 16 </vector2>
+		<resource name="17/navigation"></resource>		<vector2 name="17/shape_offset"> 15.5, 14 </vector2>
+		<array name="17/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://49">  </resource>
+		</array>
+		<string name="18/name"> "barrel8" </string>
+		<resource name="18/texture" external="10">  </resource>
+		<vector2 name="18/tex_offset"> 0, 0 </vector2>
+		<resource name="18/material"></resource>		<rect2 name="18/region"> 0, 0, 64, 48 </rect2>
+		<vector2 name="18/occluder_offset"> 32, 24 </vector2>
+		<resource name="18/occluder"></resource>		<vector2 name="18/navigation_offset"> 32, 24 </vector2>
+		<resource name="18/navigation"></resource>		<vector2 name="18/shape_offset"> 32, 24 </vector2>
+		<array name="18/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://50">  </resource>
+		</array>
+		<string name="19/name"> "cabinet1" </string>
+		<resource name="19/texture" external="11">  </resource>
+		<vector2 name="19/tex_offset"> 0, 0 </vector2>
+		<resource name="19/material"></resource>		<rect2 name="19/region"> 0, 0, 32, 64 </rect2>
+		<vector2 name="19/occluder_offset"> 16, 32 </vector2>
+		<resource name="19/occluder"></resource>		<vector2 name="19/navigation_offset"> 16, 32 </vector2>
+		<resource name="19/navigation"></resource>		<vector2 name="19/shape_offset"> 16, 30 </vector2>
+		<array name="19/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://51">  </resource>
+		</array>
+		<string name="20/name"> "cabinet2" </string>
+		<resource name="20/texture" external="13">  </resource>
+		<vector2 name="20/tex_offset"> 0, 0 </vector2>
+		<resource name="20/material"></resource>		<rect2 name="20/region"> 0, 0, 31, 64 </rect2>
+		<vector2 name="20/occluder_offset"> 15.5, 32 </vector2>
+		<resource name="20/occluder"></resource>		<vector2 name="20/navigation_offset"> 15.5, 32 </vector2>
+		<resource name="20/navigation"></resource>		<vector2 name="20/shape_offset"> 15.5, 30 </vector2>
+		<array name="20/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://52">  </resource>
+		</array>
+		<string name="21/name"> "cabinet3" </string>
+		<resource name="21/texture" external="14">  </resource>
+		<vector2 name="21/tex_offset"> 0, 0 </vector2>
+		<resource name="21/material"></resource>		<rect2 name="21/region"> 0, 0, 64, 65 </rect2>
+		<vector2 name="21/occluder_offset"> 32, 32.5 </vector2>
+		<resource name="21/occluder"></resource>		<vector2 name="21/navigation_offset"> 32, 32.5 </vector2>
+		<resource name="21/navigation"></resource>		<vector2 name="21/shape_offset"> 32, 30.5 </vector2>
+		<array name="21/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://53">  </resource>
+		</array>
+		<string name="22/name"> "cabinet4" </string>
+		<resource name="22/texture" external="15">  </resource>
+		<vector2 name="22/tex_offset"> 0, 0 </vector2>
+		<resource name="22/material"></resource>		<rect2 name="22/region"> 0, 0, 63, 64 </rect2>
+		<vector2 name="22/occluder_offset"> 31.5, 32 </vector2>
+		<resource name="22/occluder"></resource>		<vector2 name="22/navigation_offset"> 31.5, 32 </vector2>
+		<resource name="22/navigation"></resource>		<vector2 name="22/shape_offset"> 31.5, 32 </vector2>
+		<array name="22/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://54">  </resource>
+		</array>
+		<string name="23/name"> "cabinet5" </string>
+		<resource name="23/texture" external="16">  </resource>
+		<vector2 name="23/tex_offset"> 0, 0 </vector2>
+		<resource name="23/material"></resource>		<rect2 name="23/region"> 0, 0, 31, 64 </rect2>
+		<vector2 name="23/occluder_offset"> 15.5, 32 </vector2>
+		<resource name="23/occluder"></resource>		<vector2 name="23/navigation_offset"> 15.5, 32 </vector2>
+		<resource name="23/navigation"></resource>		<vector2 name="23/shape_offset"> 15.5, 30 </vector2>
+		<array name="23/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://55">  </resource>
+		</array>
+		<string name="24/name"> "cabinet6" </string>
+		<resource name="24/texture" external="17">  </resource>
+		<vector2 name="24/tex_offset"> 0, 0 </vector2>
+		<resource name="24/material"></resource>		<rect2 name="24/region"> 0, 0, 31, 64 </rect2>
+		<vector2 name="24/occluder_offset"> 15.5, 32 </vector2>
+		<resource name="24/occluder"></resource>		<vector2 name="24/navigation_offset"> 15.5, 32 </vector2>
+		<resource name="24/navigation"></resource>		<vector2 name="24/shape_offset"> 15.5, 30 </vector2>
+		<array name="24/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://56">  </resource>
+		</array>
+		<string name="25/name"> "cabinet7" </string>
+		<resource name="25/texture" external="18">  </resource>
+		<vector2 name="25/tex_offset"> 0, 0 </vector2>
+		<resource name="25/material"></resource>		<rect2 name="25/region"> 0, 0, 31, 64 </rect2>
+		<vector2 name="25/occluder_offset"> 15.5, 32 </vector2>
+		<resource name="25/occluder"></resource>		<vector2 name="25/navigation_offset"> 15.5, 32 </vector2>
+		<resource name="25/navigation"></resource>		<vector2 name="25/shape_offset"> 15.5, 30 </vector2>
+		<array name="25/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://57">  </resource>
+		</array>
+		<string name="26/name"> "cabinet8" </string>
+		<resource name="26/texture" external="19">  </resource>
+		<vector2 name="26/tex_offset"> 0, 0 </vector2>
+		<resource name="26/material"></resource>		<rect2 name="26/region"> 0, 0, 32, 64 </rect2>
+		<vector2 name="26/occluder_offset"> 16, 32 </vector2>
+		<resource name="26/occluder"></resource>		<vector2 name="26/navigation_offset"> 16, 32 </vector2>
+		<resource name="26/navigation"></resource>		<vector2 name="26/shape_offset"> 16, 30 </vector2>
+		<array name="26/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://58">  </resource>
+		</array>
+		<string name="27/name"> "cabinet9" </string>
+		<resource name="27/texture" external="20">  </resource>
+		<vector2 name="27/tex_offset"> 0, 0 </vector2>
+		<resource name="27/material"></resource>		<rect2 name="27/region"> 0, 0, 65, 64 </rect2>
+		<vector2 name="27/occluder_offset"> 32.5, 32 </vector2>
+		<resource name="27/occluder"></resource>		<vector2 name="27/navigation_offset"> 32.5, 32 </vector2>
+		<resource name="27/navigation"></resource>		<vector2 name="27/shape_offset"> 32.5, 30 </vector2>
+		<array name="27/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://59">  </resource>
+		</array>
+		<string name="28/name"> "nightstand1" </string>
+		<resource name="28/texture" external="21">  </resource>
+		<vector2 name="28/tex_offset"> 0, 0 </vector2>
+		<resource name="28/material"></resource>		<rect2 name="28/region"> 0, 0, 32, 43 </rect2>
+		<vector2 name="28/occluder_offset"> 16, 21.5 </vector2>
+		<resource name="28/occluder"></resource>		<vector2 name="28/navigation_offset"> 16, 21.5 </vector2>
+		<resource name="28/navigation"></resource>		<vector2 name="28/shape_offset"> 16, 19.5 </vector2>
+		<array name="28/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://60">  </resource>
+		</array>
+		<string name="29/name"> "nightstand2" </string>
+		<resource name="29/texture" external="22">  </resource>
+		<vector2 name="29/tex_offset"> 0, 0 </vector2>
+		<resource name="29/material"></resource>		<rect2 name="29/region"> 0, 0, 33, 52 </rect2>
+		<vector2 name="29/occluder_offset"> 16.5, 26 </vector2>
+		<resource name="29/occluder"></resource>		<vector2 name="29/navigation_offset"> 16.5, 26 </vector2>
+		<resource name="29/navigation"></resource>		<vector2 name="29/shape_offset"> 16.5, 26 </vector2>
+		<array name="29/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://61">  </resource>
+		</array>
+		<string name="30/name"> "dresser1" </string>
+		<resource name="30/texture" external="24">  </resource>
+		<vector2 name="30/tex_offset"> 0, 0 </vector2>
+		<resource name="30/material"></resource>		<rect2 name="30/region"> 0, 0, 31, 65 </rect2>
+		<vector2 name="30/occluder_offset"> 15.5, 32.5 </vector2>
+		<resource name="30/occluder"></resource>		<vector2 name="30/navigation_offset"> 15.5, 32.5 </vector2>
+		<resource name="30/navigation"></resource>		<vector2 name="30/shape_offset"> 15.5, 30.5 </vector2>
+		<array name="30/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://62">  </resource>
+		</array>
+		<string name="31/name"> "dresser2" </string>
+		<resource name="31/texture" external="25">  </resource>
+		<vector2 name="31/tex_offset"> 0, 0 </vector2>
+		<resource name="31/material"></resource>		<rect2 name="31/region"> 0, 0, 31, 64 </rect2>
+		<vector2 name="31/occluder_offset"> 15.5, 32 </vector2>
+		<resource name="31/occluder"></resource>		<vector2 name="31/navigation_offset"> 15.5, 32 </vector2>
+		<resource name="31/navigation"></resource>		<vector2 name="31/shape_offset"> 15.5, 30 </vector2>
+		<array name="31/shapes" len="1" shared="false">
+			<resource  resource_type="Shape2D" path="local://63">  </resource>
+		</array>
+
+	</main_resource>
+</resource_file>
