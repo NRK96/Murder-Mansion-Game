@@ -1,0 +1,1056 @@
+[gd_scene load_steps=64 format=1]
+
+[ext_resource path="res://assets/Furniture/singleBed1.png" type="Texture" id=1]
+[ext_resource path="res://assets/Furniture/singleBed2.png" type="Texture" id=2]
+[ext_resource path="res://assets/Furniture/doubleBed1.png" type="Texture" id=3]
+[ext_resource path="res://assets/Furniture/table1.png" type="Texture" id=4]
+[ext_resource path="res://assets/Furniture/table2.png" type="Texture" id=5]
+[ext_resource path="res://assets/Furniture/chair1.png" type="Texture" id=6]
+[ext_resource path="res://assets/Furniture/blood1.png" type="Texture" id=7]
+[ext_resource path="res://assets/Furniture/crates1.png" type="Texture" id=8]
+[ext_resource path="res://assets/Furniture/kitchenCounter4.png" type="Texture" id=9]
+[ext_resource path="res://assets/Furniture/kitchenCounter3.png" type="Texture" id=10]
+[ext_resource path="res://assets/Furniture/kitchenCounter2.png" type="Texture" id=11]
+[ext_resource path="res://assets/Furniture/barrel1.png" type="Texture" id=12]
+[ext_resource path="res://assets/Furniture/barrel2.png" type="Texture" id=13]
+[ext_resource path="res://assets/Furniture/barrel3.png" type="Texture" id=14]
+[ext_resource path="res://assets/Furniture/barrel4.png" type="Texture" id=15]
+[ext_resource path="res://assets/Furniture/barrel5.png" type="Texture" id=16]
+[ext_resource path="res://assets/Furniture/barrel6.png" type="Texture" id=17]
+[ext_resource path="res://assets/Furniture/barrel7.png" type="Texture" id=18]
+[ext_resource path="res://assets/Furniture/barrel8.png" type="Texture" id=19]
+[ext_resource path="res://assets/Furniture/cabinets1.png" type="Texture" id=20]
+[ext_resource path="res://assets/Furniture/cabinets2.png" type="Texture" id=21]
+[ext_resource path="res://assets/Furniture/cabinets3.png" type="Texture" id=22]
+[ext_resource path="res://assets/Furniture/cabinets4.png" type="Texture" id=23]
+[ext_resource path="res://assets/Furniture/cabinets5.png" type="Texture" id=24]
+[ext_resource path="res://assets/Furniture/cabinets6.png" type="Texture" id=25]
+[ext_resource path="res://assets/Furniture/cabinets7.png" type="Texture" id=26]
+[ext_resource path="res://assets/Furniture/cabinets8.png" type="Texture" id=27]
+[ext_resource path="res://assets/Furniture/cabinets9.png" type="Texture" id=28]
+[ext_resource path="res://assets/Furniture/nightstand1.png" type="Texture" id=29]
+[ext_resource path="res://assets/Furniture/nightstand2.png" type="Texture" id=30]
+[ext_resource path="res://assets/Furniture/dresser1.png" type="Texture" id=31]
+[ext_resource path="res://assets/Furniture/dresser2.png" type="Texture" id=32]
+
+[sub_resource type="ConvexPolygonShape2D" id=1]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 25.3946, 35.9217, -26.7291, 35.4137, -29.0384, -32.1418, 26.3843, -32.3958 )
+
+[sub_resource type="ConvexPolygonShape2D" id=2]
+
+custom_solver_bias = 0.0
+points = Vector2Array( -27.5154, -27.7591, 31.1461, -26.9635, 27.8318, 27.9348, -26.1898, 29.3271 )
+
+[sub_resource type="ConvexPolygonShape2D" id=3]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 29.905, -26.7445, 28.905, 30.8952, -27.595, 30.8952, -27.845, -25.9495 )
+
+[sub_resource type="ConvexPolygonShape2D" id=4]
+
+custom_solver_bias = 0.0
+points = Vector2Array( -32.1328, -32.5914, 20.608, -32.5914, 21.2006, 24.8346, -32.7253, 24.8346 )
+
+[sub_resource type="ConvexPolygonShape2D" id=5]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 33.616, 30.5085, -34.5073, 30.746, -33.7902, -29.5862, 33.616, -30.7738 )
+
+[sub_resource type="ConvexPolygonShape2D" id=6]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 9.26849, -19.8786, 11.7485, -19.8786, 13.8742, -13.855, 12.4571, 10.5565, 11.3942, 21.3356, 7.14276, 21.3356 )
+
+[sub_resource type="ConvexPolygonShape2D" id=7]
+
+custom_solver_bias = 0.0
+points = Vector2Array( -31.9367, 22.6104, -32.5965, -29.6396, 30.2489, -29.8896, 30.5788, 24.1104 )
+
+[sub_resource type="ConvexPolygonShape2D" id=8]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 32.1252, -33.5009, 32, 6.49963, -31.7495, 6.99966, -31.8748, -31.5009 )
+
+[sub_resource type="ConvexPolygonShape2D" id=9]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 32.5378, 1.73642, -32, 2.23254, -32, -31.0078, 33.0757, -31.5039 )
+
+[sub_resource type="ConvexPolygonShape2D" id=10]
+
+custom_solver_bias = 0.0
+points = Vector2Array( -32.4812, -32.5289, 31.5188, -31.4711, 31.0376, 31.4711, -32, 31.4711 )
+
+[sub_resource type="ConvexPolygonShape2D" id=11]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 30.9677, 0.744186, -32, 0.744186, -30.9678, -31.0078, 32, -31.0078 )
+
+[sub_resource type="ConvexPolygonShape2D" id=12]
+
+custom_solver_bias = 0.0
+points = Vector2Array( -31.4921, -33.2757, 30.9841, -32.7718, 31.4921, -1.52767, -31.4921, -0.0158615 )
+
+[sub_resource type="ConvexPolygonShape2D" id=13]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 32, -31.2826, 29.4193, -0.503925, -33.0323, -1.96957, -32, -32.2597 )
+
+[sub_resource type="ConvexPolygonShape2D" id=14]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 30.4516, -0.790436, -32.5162, 1.79021, -30.9678, -31.242, 30.4516, -32.2743 )
+
+[sub_resource type="ConvexPolygonShape2D" id=15]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 32.1707, -32.2607, 31.6587, 6.0014, -32, 5.51086, -32.1707, -32.2607 )
+
+[sub_resource type="ConvexPolygonShape2D" id=16]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 31.7032, -31.5115, 31.7032, 4.64122, -32.0468, 5.61832, -31.5468, -32.4885 )
+
+[sub_resource type="ConvexPolygonShape2D" id=17]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 30.976, 3.93846, -31.488, 3.44615, -30.976, -32.4923, 32.512, -32.4923 )
+
+[sub_resource type="ConvexPolygonShape2D" id=18]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 31.813, 13.4441, -31.187, 14.1076, -30.937, -11.7658, 32.313, -11.7658 )
+
+[sub_resource type="ConvexPolygonShape2D" id=19]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 29.0233, 13.6021, -31.0078, 13.8521, -31.0078, -23.3979, 28.5271, -24.3979 )
+
+[sub_resource type="ConvexPolygonShape2D" id=20]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 29.952, 13.6021, -30.976, 14.1021, -31.488, -22.6479, 31.488, -23.1479 )
+
+[sub_resource type="ConvexPolygonShape2D" id=21]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 30.7104, 10.8521, -32.2896, 11.6021, -31.7896, -24.8979, 30.2104, -25.1479 )
+
+[sub_resource type="ConvexPolygonShape2D" id=22]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 30.7104, 11.6021, -31.2896, 11.1021, -31.7896, -24.3979, 31.2104, -24.8979 )
+
+[sub_resource type="ConvexPolygonShape2D" id=23]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 29.9842, 12.6021, -31.4961, 13.6021, -30.4882, -24.3979, 30.9921, -25.6479 )
+
+[sub_resource type="ConvexPolygonShape2D" id=24]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 28.5271, 11.6021, -30.0155, 12.8521, -30.5116, -25.1479, 30.0155, -24.8979 )
+
+[sub_resource type="ConvexPolygonShape2D" id=25]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 28.5, 10.1021, -30.5, 11.3521, -31.5, -25.1479, 30, -26.3979 )
+
+[sub_resource type="ConvexPolygonShape2D" id=26]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 30.0458, 12.3521, -31.0229, 13.6021, -30.5343, -24.1479, 30.0458, -24.3979 )
+
+[sub_resource type="ConvexPolygonShape2D" id=27]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 30.7104, 11.1021, -32.2896, 11.3521, -32.2896, -27.1479, 31.9604, -25.3979 )
+
+[sub_resource type="ConvexPolygonShape2D" id=28]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 28.6815, -8.72726, -30.1037, -9.45453, -30.5778, -31.6364, 31.5259, -31.2727 )
+
+[sub_resource type="ConvexPolygonShape2D" id=29]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 28.3165, -1.23077, -29.2374, -0.615387, -30.1583, -20.6154, 28.3165, -20.6154 )
+
+[sub_resource type="ConvexPolygonShape2D" id=30]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 31.0077, 11.8966, -31.0078, 12.1466, -30.5116, -32.1034, 31.0077, -31.6034 )
+
+[sub_resource type="ConvexPolygonShape2D" id=31]
+
+custom_solver_bias = 0.0
+points = Vector2Array( 30, 10.6466, -32, 11.6466, -31, -32.1034, 31, -31.8534 )
+
+[node name="Furniture" type="Node"]
+
+[node name="singleBed1" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 70, 63.5 )
+texture = ExtResource( 1 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="singleBed1"]
+
+transform/scale = Vector2( 0.757812, 0.984375 )
+input/pickable = false
+shapes/0/shape = SubResource( 1 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="singleBed1/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 26.3843, -32.3958, -29.0384, -32.1418, -26.7291, 35.4137, 25.3946, 35.9217 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="singleBed2" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 134.75, 65 )
+texture = ExtResource( 2 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="singleBed2"]
+
+transform/scale = Vector2( 0.754328, 1.25687 )
+z/relative = false
+input/pickable = false
+shapes/0/shape = SubResource( 2 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="singleBed2/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( -27.5154, -27.7591, 31.1461, -26.9635, 27.8318, 27.9348, -26.1898, 29.3271 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="doubleBed1" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 206.25, 65 )
+texture = ExtResource( 3 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="doubleBed1"]
+
+transform/scale = Vector2( 1, 1.25781 )
+input/pickable = false
+shapes/0/shape = SubResource( 3 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="doubleBed1/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( -27.845, -25.9495, -27.595, 30.8952, 28.905, 30.8952, 29.905, -26.7445 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="table1" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 279, 67 )
+texture = ExtResource( 4 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="table1"]
+
+editor/display_folded = true
+transform/scale = Vector2( 0.421875, 1.29297 )
+input/pickable = false
+shapes/0/shape = SubResource( 4 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="table1/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( -32.1328, -32.5914, 20.608, -32.5914, 21.2006, 24.8346, -32.7253, 24.8346 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="table2" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -19.5, 59 )
+texture = ExtResource( 5 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="table2"]
+
+transform/scale = Vector2( 1.39453, 1.05251 )
+input/pickable = false
+shapes/0/shape = SubResource( 5 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="table2/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 33.616, -30.7738, -33.7902, -29.5862, -34.5073, 30.746, 33.616, 30.5085 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="chair1" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 314.085, 67.2859 )
+transform/scale = Vector2( 0.70564, 0.788564 )
+texture = ExtResource( 6 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="chair1"]
+
+input/pickable = false
+shapes/0/shape = SubResource( 6 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="chair1/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 9.26849, -19.8786, 11.7485, -19.8786, 13.8742, -13.855, 12.4571, 10.5565, 11.3942, 21.3356, 7.14276, 21.3356 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="blood" type="Sprite" parent="."]
+
+transform/pos = Vector2( 162.25, 4.25 )
+texture = ExtResource( 7 )
+
+[node name="crate" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 392.25, 62.25 )
+texture = ExtResource( 8 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="crate"]
+
+transform/scale = Vector2( 1.51563, 1 )
+input/pickable = false
+shapes/0/shape = SubResource( 7 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="crate/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( -31.9367, 22.6104, -32.5965, -29.6396, 30.2489, -29.8896, 30.5788, 24.1104 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="kitchenCounter4" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 79, 141.5 )
+texture = ExtResource( 9 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="kitchenCounter4"]
+
+transform/pos = Vector2( -0.17865, 0.448943 )
+transform/scale = Vector2( 1.99609, 0.499993 )
+input/pickable = false
+shapes/0/shape = SubResource( 8 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="kitchenCounter4/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( -31.8748, -31.5009, -31.7495, 6.99966, 32, 6.49963, 32.1252, -33.5009 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="kitchenCounter1" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 171.662, 140.93 )
+texture = ExtResource( 10 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="kitchenCounter1"]
+
+transform/pos = Vector2( -0.285114, -0.453532 )
+transform/scale = Vector2( 1.45984, 0.640624 )
+input/pickable = false
+shapes/0/shape = SubResource( 9 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="kitchenCounter1/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 32.5378, 1.73642, -32, 2.23254, -32, -31.0078, 33.0757, -31.5039 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="kitchenCounter2" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 297.473, 140.796 )
+texture = ExtResource( 11 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="kitchenCounter2"]
+
+transform/pos = Vector2( -0.510355, -0.287357 )
+transform/scale = Vector2( 1.49288, 0.340334 )
+input/pickable = false
+shapes/0/shape = SubResource( 10 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 1.06633, 0.590607 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="kitchenCounter2/StaticBody2D"]
+
+transform/pos = Vector2( 1.06633, 0.590607 )
+build_mode = 0
+polygon = Vector2Array( -32.4812, -32.5289, 31.5188, -31.4711, 31.0376, 31.4711, -32, 31.4711 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="barrel1" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -98.5, 30.5 )
+texture = ExtResource( 12 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="barrel1"]
+
+transform/pos = Vector2( -0.0468426, -0.227172 )
+transform/scale = Vector2( 0.484375, 0.503906 )
+input/pickable = false
+shapes/0/shape = SubResource( 11 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="barrel1/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 30.9677, 0.744186, -32, 0.744186, -30.9678, -31.0078, 32, -31.0078 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="barrel2" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -136.5, 30 )
+texture = ExtResource( 13 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="barrel2"]
+
+transform/pos = Vector2( -0.0468435, 0.272827 )
+transform/scale = Vector2( 0.492187, 0.496094 )
+input/pickable = false
+shapes/0/shape = SubResource( 12 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="barrel2/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( -31.4921, -33.2757, 30.9841, -32.7718, 31.4921, -1.52767, -31.4921, -0.0158615 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="barrel3" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -175.5, 30.5 )
+texture = ExtResource( 14 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="barrel3"]
+
+transform/pos = Vector2( -0.0468419, 0.272827 )
+transform/scale = Vector2( 0.484375, 0.511719 )
+input/pickable = false
+shapes/0/shape = SubResource( 13 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="barrel3/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( -32, -32.2597, -33.0323, -1.96957, 29.4193, -0.503925, 32, -31.2826 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="barrel4" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -214, 30.5 )
+texture = ExtResource( 15 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="barrel4"]
+
+transform/pos = Vector2( 0.203165, -0.102173 )
+transform/scale = Vector2( 0.484375, 0.484375 )
+input/pickable = false
+shapes/0/shape = SubResource( 14 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="barrel4/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 30.4516, -0.790436, -32.5162, 1.79021, -30.9678, -31.242, 30.4516, -32.2743 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="barrel5" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -128.5, 68.25 )
+texture = ExtResource( 16 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="barrel5"]
+
+transform/pos = Vector2( 0.0781546, -0.293606 )
+transform/scale = Vector2( 1.46484, 0.509643 )
+input/pickable = false
+shapes/0/shape = SubResource( 15 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="barrel5/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( -32.1707, -32.2607, -32, 5.51086, 31.6587, 6.0014, 32.1707, -32.2607 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="barrel6" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -215, 67.5 )
+texture = ExtResource( 17 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="barrel6"]
+
+transform/pos = Vector2( 0, 0.389959 )
+transform/scale = Vector2( 1, 0.511719 )
+input/pickable = false
+shapes/0/shape = SubResource( 16 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="barrel6/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 31.7032, -31.5115, 31.7032, 4.64122, -32.0468, 5.61832, -31.5468, -32.4885 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="barrel7" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -97, 110.25 )
+texture = ExtResource( 18 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="barrel7"]
+
+transform/pos = Vector2( -0.0620422, 0.514963 )
+transform/scale = Vector2( 0.488281, 0.507812 )
+input/pickable = false
+shapes/0/shape = SubResource( 17 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="barrel7/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 30.976, 3.93846, -31.488, 3.44615, -30.976, -32.4923, 32.512, -32.4923 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="barrel8" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -153.5, 115.25 )
+texture = ExtResource( 19 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="barrel8"]
+
+transform/pos = Vector2( -0.5, 0.382481 )
+transform/scale = Vector2( 1, 0.753672 )
+input/pickable = false
+shapes/0/shape = SubResource( 18 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="barrel8/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 31.813, 13.4441, -31.187, 14.1076, -30.937, -11.7658, 32.313, -11.7658 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="cabinet1" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -96.25, 180 )
+texture = ExtResource( 20 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="cabinet1"]
+
+transform/pos = Vector2( -0.164615, 0 )
+transform/scale = Vector2( 0.503906, 1 )
+input/pickable = false
+shapes/0/shape = SubResource( 19 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="cabinet1/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 29.0233, 13.6021, -31.0078, 13.8521, -31.0078, -23.3979, 28.5271, -24.3979 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="cabinet2" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -135.75, 179.75 )
+texture = ExtResource( 21 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="cabinet2"]
+
+transform/pos = Vector2( -0.164608, 0 )
+transform/scale = Vector2( 0.488281, 1 )
+input/pickable = false
+shapes/0/shape = SubResource( 20 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="cabinet2/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 29.952, 13.6021, -30.976, 14.1021, -31.488, -22.6479, 31.488, -23.1479 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="cabinet3" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -189.75, 178.75 )
+texture = ExtResource( 22 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="cabinet3"]
+
+input/pickable = false
+shapes/0/shape = SubResource( 21 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="cabinet3/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 30.7104, 10.8521, -32.2896, 11.6021, -31.7896, -24.8979, 30.2104, -25.1479 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="cabinet4" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -112.25, 249.25 )
+texture = ExtResource( 23 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="cabinet4"]
+
+input/pickable = false
+shapes/0/shape = SubResource( 22 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="cabinet4/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 30.7104, 11.6021, -31.2896, 11.1021, -31.7896, -24.3979, 31.2104, -24.8979 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="cabinet5" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -58.25, 180.5 )
+texture = ExtResource( 24 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="cabinet5"]
+
+transform/pos = Vector2( 0.0853866, 0 )
+transform/scale = Vector2( 0.496094, 1 )
+input/pickable = false
+shapes/0/shape = SubResource( 23 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="cabinet5/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 29.9842, 12.6021, -31.4961, 13.6021, -30.4882, -24.3979, 30.9921, -25.6479 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="cabinet6" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -58, 250.75 )
+texture = ExtResource( 25 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="cabinet6"]
+
+transform/pos = Vector2( 0.0853863, 0 )
+transform/scale = Vector2( 0.503906, 1 )
+input/pickable = false
+shapes/0/shape = SubResource( 24 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="cabinet6/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 28.5271, 11.6021, -30.0155, 12.8521, -30.5116, -25.1479, 30.0155, -24.8979 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="cabinet7" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -168, 250.25 )
+texture = ExtResource( 26 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="cabinet7"]
+
+transform/pos = Vector2( 0.210389, 0 )
+transform/scale = Vector2( 0.5, 1 )
+input/pickable = false
+shapes/0/shape = SubResource( 25 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="cabinet7/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 28.5, 10.1021, -30.5, 11.3521, -31.5, -25.1479, 30, -26.3979 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="cabinet8" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -245.25, 177.75 )
+texture = ExtResource( 27 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="cabinet8"]
+
+transform/pos = Vector2( -0.41461, 0 )
+transform/scale = Vector2( 0.511719, 1 )
+input/pickable = false
+shapes/0/shape = SubResource( 26 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="cabinet8/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 30.0458, 12.3521, -31.0229, 13.6021, -30.5343, -24.1479, 30.0458, -24.3979 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="cabinet9" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( -224.5, 250 )
+texture = ExtResource( 28 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="cabinet9"]
+
+input/pickable = false
+shapes/0/shape = SubResource( 27 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="cabinet9/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 30.7104, 11.1021, -32.2896, 11.3521, -32.2896, -27.1479, 31.9604, -25.3979 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="nightstand1" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 31, 198.75 )
+texture = ExtResource( 29 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="nightstand1"]
+
+transform/pos = Vector2( -0.223778, 0.396641 )
+transform/scale = Vector2( 0.527344, 0.6875 )
+input/pickable = false
+shapes/0/shape = SubResource( 28 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="nightstand1/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 28.6815, -8.72726, -30.1037, -9.45453, -30.5778, -31.6364, 31.5259, -31.2727 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="nightstand2" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 165, 199.5 )
+texture = ExtResource( 30 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="nightstand2"]
+
+transform/pos = Vector2( -0.223787, 0.396641 )
+transform/scale = Vector2( 0.542969, 0.8125 )
+input/pickable = false
+shapes/0/shape = SubResource( 29 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="nightstand2/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 28.3165, -1.23077, -29.2374, -0.615387, -30.1583, -20.6154, 28.3165, -20.6154 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="dresser1" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 117.5, 197.75 )
+texture = ExtResource( 31 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="dresser1"]
+
+transform/pos = Vector2( -0.223781, 0 )
+transform/scale = Vector2( 0.503906, 1 )
+input/pickable = false
+shapes/0/shape = SubResource( 30 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="dresser1/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 31.0077, 11.8966, -31.0078, 12.1466, -30.5116, -32.1034, 31.0077, -31.6034 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+[node name="dresser2" type="Sprite" parent="."]
+
+editor/display_folded = true
+transform/pos = Vector2( 76.5, 198.75 )
+texture = ExtResource( 32 )
+
+[node name="StaticBody2D" type="StaticBody2D" parent="dresser2"]
+
+transform/pos = Vector2( 0.151225, 0 )
+transform/scale = Vector2( 0.5, 1 )
+input/pickable = false
+shapes/0/shape = SubResource( 31 )
+shapes/0/transform = Matrix32( 1, 0, 0, 1, 0, 0 )
+shapes/0/trigger = false
+collision/layers = 1
+collision/mask = 1
+constant_linear_velocity = Vector2( 0, 0 )
+constant_angular_velocity = 0.0
+friction = 1.0
+bounce = 0.0
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="dresser2/StaticBody2D"]
+
+build_mode = 0
+polygon = Vector2Array( 30, 10.6466, -32, 11.6466, -31, -32.1034, 31, -31.8534 )
+shape_range = Vector2( 0, 0 )
+trigger = false
+
+
